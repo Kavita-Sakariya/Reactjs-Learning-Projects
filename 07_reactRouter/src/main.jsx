@@ -11,7 +11,7 @@ import Github, { githubInfoLoader } from './Components/Github.jsx'
 import User from './Components/User.jsx'
 
 
-//FIRST METHOD OF ROUTING
+// FIRST METHOD OF ROUTING
 const router = createBrowserRouter([
   {
     path: '/',
